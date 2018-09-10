@@ -1,0 +1,25 @@
+{
+  "name": "tuts",
+  "version": "1.0.0",
+  "description": "Just playing around nodejs",
+  "main": "hello.js",
+  "dependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenniMench/tuts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenniMench/tuts/issues"
+  },
+  "homepage": "https://github.com/JenniMench/tuts#readme"
+}
